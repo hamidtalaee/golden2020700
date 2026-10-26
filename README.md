@@ -1,4 +1,5 @@
 Hamidreza Talaei
+
 Cybersecurity Architect | SOC Engineering | Threat Hunting | DFIR
 
 Cybersecurity professional with 15+ years of experience in Security Operations, Threat Detection, Incident Response, Digital Forensics, and Security Architecture.
